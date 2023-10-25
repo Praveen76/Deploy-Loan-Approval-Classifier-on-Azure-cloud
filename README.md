@@ -2,8 +2,6 @@
 
 In this project, I'll walk you through deploying any Machine Learning project, Loan Approval Classifier model in our case, on Azure Cloud.
 
-Deploy Loan Approval Classifier on Azure cloud.
-
 # **Directory Structure**
  * Data: Data used for this project. However Train/DataPrep.py will be used to import real time data from Database for our this project.
  * configs:
