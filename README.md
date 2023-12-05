@@ -2,7 +2,7 @@
 
 In this project, I'll walk you through deploying any Machine Learning project, Loan Approval Classifier model in our case, on Azure Cloud.
 
-# **Directory Structure**
+## **Directory Structure**
  * Data: Data used for this project. However Train/DataPrep.py will be used to import real time data from Database for our this project.
  * configs: It contains the configuration files that will be utilized to store different credential data such DB related credentials, etc.
 	* configs/config.yaml: Stores DB server's credentials.
@@ -24,7 +24,7 @@ In this project, I'll walk you through deploying any Machine Learning project, L
 * main.py: Python script to define order to follow to execute different relavant Azure experiment scripts.
 * requirements.txt: Python dependencies that will be required to be installed to run this project.
 
-# **Instructions for Installation:**
+## **Instructions for Installation:**
 **Dependencies:**
 * joblib>= 0.16
 * scikit-learn>=0.23
@@ -36,18 +36,16 @@ In this project, I'll walk you through deploying any Machine Learning project, L
 * pyyaml>=5.3
 * azureml-sdk>=1.18.0
 
-# License:
+## License:
 This project is open-source and distributed under the MIT License. Feel free to use and modify the code as needed.
 
-# Issues:
+## Issues:
 If you encounter any issues or have suggestions for improvement, please open an issue in the Issues section of this repository.
 
-# Contact:
+## Contact:
 The code has been tested on Windows system. It should work well on other distributions but has not yet been tested. In case of any issue with installation or otherwise, please contact me on [Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
 
-# **About Me:**
-I’ve been working as a Data Scientist for a very long time now. I've worked on various NLP, Machine learning & cutting edge deep learning frameworks to solve business problems. Please feel free to check out my personal wesbsite [TowardsMachineLearning.Org](https://towardsmachinelearning.org/) , where I cover an array of topics from Machine learning, NLP, Deep Learning, etc.
-
-
+## **About Me**:
+I’m a seasoned Data Scientist and founder of [TowardsMachineLearning.Org](https://towardsmachinelearning.org/). I've worked on various Machine Learning, NLP, and cutting-edge deep learning frameworks to solve numerous business problems.
 
 
